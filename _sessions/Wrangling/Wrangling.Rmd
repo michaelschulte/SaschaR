@@ -3,7 +3,7 @@ title: "Wrangling"
 author: "SaschaR 2020<br>
   <a href='https://therbootcamp.github.io'>The R Bootcamp</a>
   <br>
-  <a href='https://therbootcamp.github.io/EDA_2020Feb/'>
+  <a href='https://michaelschulte.github.io/SaschaR/'>
     <i class='fas fa-clock' style='font-size:.9em;'></i>
   </a>&#8239; 
   <a href='https://therbootcamp.github.io'>
@@ -778,5 +778,5 @@ patienten_ergebnisse %>%
 
 class: middle, center
 
-<h1><a href="https://therbootcamp.github.io/EDA_2020Feb/_sessions/Wrangling/Wrangling_practical.html">Practical</a></h1>
+<h1><a href="https://michaelschulte.github.io/SaschaR/_sessions/Wrangling/Wrangling_practical.html">Practical</a></h1>
 

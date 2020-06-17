@@ -5,7 +5,7 @@ author: "
       <a href='https://therbootcamp.github.io'>
         <i class='fas fa-home' style='font-size:1em;'></i>
       </a>
-      <a href='https://therbootcamp.github.io/EDA_2020Feb/'>
+      <a href='https://michaelschulte.github.io/SaschaR/'>
         <i class='fas fa-clock' style='font-size:1em;' ></i>
       </a>
       <a href='mailto:therbootcamp@gmail.com'>
@@ -36,12 +36,11 @@ output:
 
  |  | Sessions | 
   |:--|:----------------------|
-  |1| [R(Studio)](_sessions/R(Studio)/R_Studio-.html) |
-  |2| [Wrangling](_sessions/Wrangling/Wrangling.html)|
-  |3| [Wrangling II](_sessions/WranglingII/WranglingII.html) |
-  |4| [Plotting](_sessions/Plotting/Plotting.html) |
-  |5| [Plotting II](_sessions/PlottingII/PlottingII.html) |
-  |6| [Plotting III](_sessions/PlottingIII/PlottingIII.html) |
+  |1| [Wrangling](_sessions/Wrangling/Wrangling.html)|
+  |2| [Wrangling II](_sessions/WranglingII/WranglingII.html) |
+  |3| [Plotting](_sessions/Plotting/Plotting.html) |
+  |4| [Plotting II](_sessions/PlottingII/PlottingII.html) |
+  |5| [Plotting III](_sessions/PlottingIII/PlottingIII.html) |
   
 
 <!---
