@@ -837,7 +837,7 @@ Das Netz ist vll. der beste Ort für Informationen über R.
   <td>
     <p align="center">
       <a class="project-link" href="https://therbootcamp.github.io/#courses" align="center">
-      <font style="font-size:20px;weight:700"><br>Explorative Datenanalyse mit R</font><br>
+      <font style="font-size:20px;weight:700"><br>SaschaR 2020</font><br>
       <br>
       <img src="https://therbootcamp.github.io/img/courses/1.png" height="230px" style="border-radius:50%;border:10px solid #E9ECEF"></img><br><br>
       <high>August 4/5, 2020</high><br><br><br>

@@ -3,7 +3,7 @@ title: "Wrangling"
 author: "<table style='table-layout:fixed;width:100%;border:0;padding:0;margin:0'><col width='10%'><col width='10%'>
   <tr style='border:none'>
     <td style='display:block;width:100%;text-align:left;vertical-align:bottom;padding:0;margin:0;border:none' nowrap>
-      <font style='font-style:normal'>Explorative Datenanalyse mit R</font><br>
+      <font style='font-style:normal'>SaschaR 2020</font><br>
       <a href='https://therbootcamp.github.io/EDA_2020Feb/'>
         <i class='fas fa-clock' style='font-size:.9em;' ></i>
       </a>
@@ -51,7 +51,7 @@ options(digits = 3)
 </p>
 
 ```{r, echo = FALSE, fig.align = 'center', eval = TRUE, out.width = "70%"}
-knitr::include_graphics("")
+#knitr::include_graphics("")
 ```
 
 # {.tabset}
